@@ -1,2 +1,2 @@
 streamlit==1.32.0
-pypandoc==1.13
+pypandoc-binary==1.13
